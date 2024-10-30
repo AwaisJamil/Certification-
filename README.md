@@ -2,8 +2,7 @@
 I am excited to share that I have earned the [-] certification from Credly. This achievement demonstrates my commitment to professional development in [relevant skills or knowledge area], equipping me with valuable expertise to enhance my contributions in [Web Development].
 # Certification Showcase
 
-## 🎓 Certification Title: [
-Web Development with HTML, CSS, JavaScript]
+## 🎓 Certification Title: [Web Development with HTML, CSS, JavaScript]
 
 I am proud to share that I have successfully completed the certification for [Full Stack web development ] from Credly. This certification demonstrates my commitment to continuous learning and professional development in [relevant field or skill area].
 
